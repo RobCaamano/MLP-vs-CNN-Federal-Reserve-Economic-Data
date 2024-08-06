@@ -72,7 +72,7 @@ Both the Multi-Layer Perceptron (MLP) and Convolutional Neural Network (CNN) mod
 
 - **MLP:** maps input data to the desired output by learning the weights of the edges during training.
 
-- **1D CNN:** detects patterns in the input data by scanning through the data and learning to recognize significant patterns in the time series
+- **CNN:** detects patterns in the input data by scanning through the data and learning to recognize significant patterns in the time series
 
 ### Results
 
